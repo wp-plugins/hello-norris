@@ -3,7 +3,7 @@ Hello Norris
 Description
 -----------
 Plugin Name: Hello Norris   
-Plugin URI:   
+Plugin URI: http://wordpress.org/extend/plugins/hello-norris/   
 Description: Shows a random fact about Chuck Norris in the upper right of admin pages.   
 Version: 1.0   
 Author: Jens Nilsson   

@@ -11,7 +11,7 @@ Shows a random fact about Chuck Norris in the upper right of admin pages.
 
 == Installation ==
 
-1. Upload `hello-norris.php` to the `/wp-content/plugins/` directory
+1. Upload `hello-norris` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
