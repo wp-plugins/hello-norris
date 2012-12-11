@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Hello Norris
-	Plugin URI: 
+	Plugin URI: http://wordpress.org/extend/plugins/hello-norris/
 	Description: Shows a random fact about Chuck Norris in the upper right of admin pages.
 	Version: 1.0
 	Author: Jens Nilsson
@@ -12,8 +12,7 @@
 $chuck = new Hello_Chuck_Norris();
 
 class Hello_Chuck_Norris {
-	private $facts = "
-When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+	private $facts = "When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
 Chuck Norris doesn’t read books. He stares them down until he gets the information he wants.
 There is no theory of evolution. Just a list of creatures Chuck Norris has allowed to live.
 Outer space exists because it’s afraid to be on the same planet with Chuck Norris.
